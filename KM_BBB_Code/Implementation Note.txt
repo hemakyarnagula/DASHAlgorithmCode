@@ -1,0 +1,8 @@
+This code implements the following adaptation algorithm:
+
+
+K. Miller, E. Quacchio, G. Gennari, and A. Wolisz
+Adaptation Algorithm for Adaptive Streaming over HTTP.
+19th International Packet Video Workshop (PV), May 2012.
+
+--

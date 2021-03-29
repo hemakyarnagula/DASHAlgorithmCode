@@ -1,0 +1,10 @@
+This code implements the following adaptation algorithm:
+
+Rate Based Adaptation Algorithm.
+
+R. K. P. Mok, X. Luo, E. W. W. Chan, and R. K. C. Chang,
+QDASH: A QoE-aware DASH System,
+3rd ACM Multimedia Systems Conference (MMSys), February 2012.
+
+
+--

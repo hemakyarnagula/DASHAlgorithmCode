@@ -1,0 +1,7 @@
+This code implements the following adaptation algorithm:
+
+D. Suh, I. Jang, and S. Pack, 
+QoE-enhanced Adaptation Algorithm over DASH for Multimedia Streaming,
+International Conference on Information Networking (ICOIN), February 2014.
+
+--

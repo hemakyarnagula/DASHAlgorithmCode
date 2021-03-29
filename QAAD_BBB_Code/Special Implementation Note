@@ -1,0 +1,14 @@
+The paper for this QAAD  algo is as follows:
+
+Title: QoE-enhanced Adaptation Algorithm over DASH for Multimedia Streaming
+Authors: Dongeun Suh, Insun Jang, and Sangheon Pack
+
+Published: ICOIN 2014
+
+
+NOTE:
+-----
+This is a purly rate based algoritham only. This is compared with QDASH(R. MOK et al.).
+
+--
+Hema

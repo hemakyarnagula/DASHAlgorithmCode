@@ -1,0 +1,8 @@
+This code implements the following adaptation algorithm:
+
+T.-Y. Huang, R. Johari, N. McKeown, M. Trunnell, and M. Watson,
+A Buffer-based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service, 
+ACM Conference on Special Interest Group on Data Communication (SIGCOMM)
+August 2014
+
+--

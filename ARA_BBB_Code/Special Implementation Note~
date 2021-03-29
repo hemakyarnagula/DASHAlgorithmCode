@@ -1,0 +1,17 @@
+The paper for this ARA  algo is as follows:
+
+Title: Advanced Rate Adaptation Algorithm in video streaming over HTTP
+
+
+Authors: Jelena Kovacevic et al
+
+Published: IEEE 2014
+
+
+NOTE:
+-----
+This is a purly HYBRID algoritham only. This is the advance Version of the KM Algo. This only uses 4 Alpha Parameters and higher buffer levels
+
+
+--
+Hema

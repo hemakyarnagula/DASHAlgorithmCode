@@ -1,0 +1,7 @@
+This code implements the following adaptation algorithm:
+
+L. Liu, C. Zhou, X. Zhang, and Z. Guo,
+A Fairness-aware Smooth Rate Adaptation Approach for Dynamic HTTP Streaming,
+IEEE International Conference on Image Processing (ICIP), September 2015.
+
+--

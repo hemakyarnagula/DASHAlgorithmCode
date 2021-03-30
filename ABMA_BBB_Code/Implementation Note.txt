@@ -1,0 +1,7 @@
+This code implements the following adaptation algorithm:
+
+A. Beben, P. Wisniewski, J. M. Batalla, and P. Krawiec, 
+ABMA+: Lightweight and Efficient Algorithm for HTTP Adaptive Streaming,
+7th International Conference on Multimedia Systems (MMSys), May 2016.
+
+--

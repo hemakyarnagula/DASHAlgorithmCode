@@ -1,0 +1,7 @@
+This code implements the following adaptation algorithm:
+
+K. Spiteri, R. Urgaonkar, and R. K. Sitaraman, 
+BOLA: Near-Optimal Bitrate Adaptation for Online Videos,
+35th Annual IEEE International Conference on Computer Communications (INFOCOM), April 2016.
+
+--
